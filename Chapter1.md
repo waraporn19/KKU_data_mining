@@ -9,8 +9,8 @@
 
 
 ## Data Mining Functions
-Generalization การมอง Data ในมุมต่าง ๆ
-Pattern Discovery การดูรูปแบบที่เกิดซ้ำ ๆ
-Classification การแบ่งข้อมูลออกเป็นกลุ่ม โดยทราบชื่อกลุ่มอยู่แล้ว
-Cluster Analysis การแบ่งข้อมูลออกเป็นกลุ่ม โดยที่เราไม่ทราบชื่อกลุ่ม
-Outlier Analysis การหาข้อมูลที่หลุดออกไปจากกลุ่ม
+### Generalization การมอง Data ในมุมต่าง ๆ
+### Pattern Discovery การดูรูปแบบที่เกิดซ้ำ ๆ
+### Classification การแบ่งข้อมูลออกเป็นกลุ่ม โดยทราบชื่อกลุ่มอยู่แล้ว
+### Cluster Analysis การแบ่งข้อมูลออกเป็นกลุ่ม โดยที่เราไม่ทราบชื่อกลุ่ม
+### Outlier Analysis การหาข้อมูลที่หลุดออกไปจากกลุ่ม
